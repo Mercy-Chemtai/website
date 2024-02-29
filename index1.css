@@ -1,0 +1,82 @@
+
+
+#small form{
+    margin:10%;
+    font-size: 20px;
+    border: 2px;
+}
+
+
+image{
+    display:flex;
+    width: 20px;
+    flex-direction: row;
+    
+ 
+}
+
+
+p{
+    width:60%;
+    font:larger;
+}
+button{
+    width: px;
+    background-color: rgb(47, 47, 169);
+    padding: 20px;
+    display:flex;
+    text-align: center;
+
+}
+body{
+    background-color: aliceblue;
+    margin: 8%;
+    font-size: larger;
+    border: 2px solid;
+    margin :center;
+    display: flex;
+    padding: 10%;
+    width: 70%;
+    text-align: 20%;
+
+    justify-content: space-between;
+    
+    
+
+
+}
+
+#gridcontainer{
+    margin-left: 2px;
+    flex-direction: column;
+}
+.techaccessories{
+    display: flex;
+    flex-direction: row;
+    margin-left: 10%;
+    grid-row: 10%;
+}
+
+
+.login{
+    float: left;
+    margin-left: 10%;
+    display:flex;
+    flex-direction: row;
+    column-gap: 80%;
+    font-size: medium;
+    width:fit-content
+
+}
+.headphone{
+    float: right;
+    display:flex;
+    width: 15px;
+    flex-direction: row;
+}
+.lovelace{
+    display:flex
+}
+.h2{
+    flex-direction:column;
+}
